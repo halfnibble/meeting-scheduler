@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import { awesomeFunction } from '../src';
+import awesomeFunction from '../src';
 
 describe('Awesome test.', () => {
     it('should test awesome function', () => {
