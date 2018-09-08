@@ -1,1 +1,0 @@
-'use strict';Object.defineProperty(exports,'__esModule',{value:!0});var awesomeFunction=function(){return'I am just an Awesome Function'};exports.default=awesomeFunction,module.exports=exports['default'];

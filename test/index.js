@@ -1,9 +1,9 @@
 import { assert } from 'chai';
-import awesomeFunction from '../src';
+import MeetingScheduler from '../src/meeting-scheduler';
 
 describe('Awesome test.', () => {
     it('should test awesome function', () => {
         const expectedVal = 'I am just an Awesome Function'
-        assert(awesomeFunction() === expectedVal, 'Named awesome :(');
+        assert(MeetingScheduler() === expectedVal, 'Named awesome :(');
     });
 });
